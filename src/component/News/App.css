@@ -1,0 +1,6 @@
+.divider1 {
+    height: auto ;
+    overflow: auto ;
+    background-color: #fff ;
+    border-bottom: 1px dashed #ccc;
+}
